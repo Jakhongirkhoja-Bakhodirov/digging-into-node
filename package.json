@@ -1,0 +1,23 @@
+{
+  "name": "digging-into-node",
+  "version": "1.0.0",
+  "description": "Diggin into Node.js by Kylen Simpson",
+  "main": "cmd-argv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jakhongirkhoja-Bakhodirov/digging-into-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jakhongirkhoja-Bakhodirov/digging-into-node/issues"
+  },
+  "homepage": "https://github.com/Jakhongirkhoja-Bakhodirov/digging-into-node#readme",
+  "dependencies": {
+    "minimist": "^1.2.6"
+  }
+}
